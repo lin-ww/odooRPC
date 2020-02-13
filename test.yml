@@ -1,0 +1,10 @@
+- function:
+    url: http://127.0.0.1:8069
+    username: 123
+    password: 123
+    db: demo
+    model: res.partner
+    domain: 
+    function_name: "unlink"
+    function_para_list: [[9,10]]
+    function_para_dict: {}
